@@ -25,7 +25,7 @@ I'm a final-year Computer and Information Sciences student at AUT, majoring in S
 ### 📱 Mental Health Web App – [View Project](https://github.com/emilyylauu/comp602-ctrlc)
 A wellness web app created as part of a team project at AUT to support mental wellbeing.
 
-- Built using **Next.js**, **React**, and **Tailwind CSS**
+- Built using **Next.js** and **React**
 - Firebase for user authentication and real-time data
 - Features include mood tracking, journaling, and mini games
 - Managed tasks with **Agile**, used **Trello** for sprints, and **Figma** for UI design
