@@ -18,6 +18,19 @@ I'm a final-year Computer and Information Sciences student at AUT, majoring in S
 - Used Firebase, HTML, CSS, and JavaScript  
 - Managed tasks with Trello and worked in a Scrum team
 
+---
+
+## 🚀 Projects
+
+### 📱 Mental Health Web App – [View Project](https://github.com/emilyylauu/comp602-ctrlc)
+A wellness web app created as part of a team project at AUT to support mental wellbeing.
+
+- Built using **Next.js**, **React**, and **Tailwind CSS**
+- Firebase for user authentication and real-time data
+- Features include mood tracking, journaling, and mini games
+- Managed tasks with **Agile**, used **Trello** for sprints, and **Figma** for UI design
+
+
 ### Movie Booking System *(2024)*
 - Created a console app in Java for booking movie tickets  
 - Used SQL for managing data like movies and bookings
