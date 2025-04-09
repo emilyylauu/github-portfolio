@@ -22,7 +22,7 @@ I'm a final-year Computer and Information Sciences student at AUT, majoring in S
 
 ## 🚀 Projects
 
-### 📱 Mental Health Web App – [View Project](https://github.com/emilyylauu/comp602-ctrlc)
+### 📱 Mental Health Web App (2024)– [View Project](https://github.com/emilyylauu/comp602-ctrlc)
 A wellness web app created as part of a team project at AUT to support mental wellbeing.
 
 - Built using **Next.js** and **React**
@@ -31,11 +31,8 @@ A wellness web app created as part of a team project at AUT to support mental we
 - Managed tasks with **Agile**, used **Trello** for sprints, and **Figma** for UI design
 
 
-### Movie Booking System *(2024)*
-- Created a console app in Java for booking movie tickets  
-- Used SQL for managing data like movies and bookings
 - 
-### 🎬 Movie Booking System – [View Project](https://github.com/emilyylauu/ProjectTwo)
+### 🎬 Movie Booking System(2024) – [View Project](https://github.com/emilyylauu/ProjectTwo)
 A Java-based console app for booking movie tickets, developed in **NetBeans** as part of a university project.
 
 - Built using **Java** in **NetBeans IDE**
