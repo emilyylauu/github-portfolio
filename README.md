@@ -29,6 +29,7 @@ A wellness web app created as part of a team project at AUT to support mental we
 - Firebase for user authentication and real-time data
 - Features include mood tracking, journaling, and mini games
 - Managed tasks with **Agile**, used **Trello** for sprints, and **Figma** for UI design
+youtube link of web app demo: https://youtu.be/J3x51JKxqc0 
 
 
 ### 🎬 Movie Booking System(2024) – [View Project](https://github.com/emilyylauu/ProjectTwo)
