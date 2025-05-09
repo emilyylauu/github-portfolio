@@ -1,9 +1,9 @@
-# 👋 Hi, I'm Emily Lau
+# Hi, I'm Emily Lau
 
 I'm a final-year Computer and Information Sciences student at AUT, majoring in Software Development and minoring in Data Science. I enjoy building websites and apps, working with data, and learning new tech. I'm currently looking for a graduate role in 2026.
 
 
-## 💻 Skills
+## Skills
 
 - **Languages:** Java, C, HTML, CSS, JavaScript, R, SQL, Python, PHP  
 - **Frameworks:** React, Next.js, Pandas, NumPy  
@@ -11,7 +11,7 @@ I'm a final-year Computer and Information Sciences student at AUT, majoring in S
 - **IDEs:** VS Code, NetBeans, Eclipse, Jupyter Notebook  
 - **Methodologies:** Agile, Scrum
 
-## 🚀 Projects
+## Projects
 
 ### Mental Health Web App *(2024)*
 - Built a wellness app with login, journaling, and mood tracking  
@@ -20,7 +20,7 @@ I'm a final-year Computer and Information Sciences student at AUT, majoring in S
 
 ---
 
-## 🚀 Projects
+##  Projects
 
 ### 📱 Mental Health Web App (2024)– [View Project](https://github.com/emilyylauu/comp602-ctrlc)
 A wellness web app created as part of a team project at AUT to support mental wellbeing.
@@ -33,7 +33,7 @@ A wellness web app created as part of a team project at AUT to support mental we
 - trello board link: https://trello.com/b/wY9UBdH8/2024s2w202actrl-c 
 
 
-### 🎬 Movie Booking System(2024) – [View Project](https://github.com/emilyylauu/ProjectTwo)
+###  Movie Booking System(2024) – [View Project](https://github.com/emilyylauu/ProjectTwo)
 A Java-based console app for booking movie tickets, developed in **NetBeans** as part of a university project.
 
 - Built using **Java** in **NetBeans IDE**
